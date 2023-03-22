@@ -38,6 +38,7 @@ npm run dev
 ```sh
 npm run build
 ```
+<<<<<<< HEAD
 …or create a new repository on the command line
 echo "# vue" >> README.md
 git init
@@ -62,3 +63,10 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 # git push  提交远程
 # git pull  下载远程
 
+=======
+git start
+
+add git 
+
+thist 333
+>>>>>>> 57374a695df6368db0652f951ccb480f4dac6ed9
